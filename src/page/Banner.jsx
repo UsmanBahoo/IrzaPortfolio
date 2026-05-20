@@ -80,7 +80,7 @@ function Banner() {
           </div>
         </div>
         <div className="flex-1 flex justify-center lg:justify-end">
-            <img src="/assets/Irza.jpeg" alt="Profile" className="rounded-full w-48 h-48 sm:w-56 sm:h-56 object-cover object-top" />
+            <img src="/assets/irza.jpeg" alt="Profile" className="rounded-full w-48 h-48 sm:w-56 sm:h-56 object-cover object-top" />
         </div>
       </div>
       <div className='container mx-auto py-10 overflow-hidden'>
