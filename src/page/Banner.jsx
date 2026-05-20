@@ -33,13 +33,13 @@ function Banner() {
           </h1>
           <div className="flex mt-4 gap-2">
             <em className="text-xl mt-2 not-italic text-white">Follow me</em>
-            <a href="">
+            <a href="https://github.com/irzaramzan/">
               <img src="/src/assets/github-142-svgrepo-com.svg" alt="Github" className="mt-2 rounded-full h-6 w-6 bg-white" />
             </a>
             <a href="https://www.linkedin.com/in/irza-ramzan/">
               <img src="/src/assets/linkedin-svgrepo-com.svg" alt="Linkedin" className="mt-2 rounded-full h-6 w-6 bg-white" />
             </a>
-            <a href="https://leetcode.com/">
+            <a href="https://leetcode.com/u/irzaramzan/">
               <img src="/src/assets/leetcode.svg" alt="Leetcode" className="mt-2 rounded-full h-6 w-6 bg-white" />
             </a>
             <a href="https://www.codechef.com/dashboard">
