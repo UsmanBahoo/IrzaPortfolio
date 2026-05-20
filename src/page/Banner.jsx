@@ -34,16 +34,16 @@ function Banner() {
           <div className="flex mt-4 gap-2">
             <em className="text-xl mt-2 not-italic text-white">Follow me</em>
             <a href="https://github.com/irzaramzan/">
-              <img src="/src/assets/github-142-svgrepo-com.svg" alt="Github" className="mt-2 rounded-full h-6 w-6 bg-white" />
+              <img src="/assets/github-142-svgrepo-com.svg" alt="Github" className="mt-2 rounded-full h-6 w-6 bg-white" />
             </a>
             <a href="https://www.linkedin.com/in/irza-ramzan/">
-              <img src="/src/assets/linkedin-svgrepo-com.svg" alt="Linkedin" className="mt-2 rounded-full h-6 w-6 bg-white" />
+              <img src="/assets/linkedin-svgrepo-com.svg" alt="Linkedin" className="mt-2 rounded-full h-6 w-6 bg-white" />
             </a>
             <a href="https://leetcode.com/u/irzaramzan/">
-              <img src="/src/assets/leetcode.svg" alt="Leetcode" className="mt-2 rounded-full h-6 w-6 bg-white" />
+              <img src="/assets/leetcode.svg" alt="Leetcode" className="mt-2 rounded-full h-6 w-6 bg-white" />
             </a>
             <a href="https://www.codechef.com/dashboard">
-              <img src="/src/assets/cc-logo.svg" alt="CodeChef" className="mt-2 rounded-full h-6 w-6 bg-white" />
+              <img src="/assets/cc-logo.svg" alt="CodeChef" className="mt-2 rounded-full h-6 w-6 bg-white" />
             </a>
           </div>
           {/* Buttons */}
@@ -80,7 +80,7 @@ function Banner() {
           </div>
         </div>
         <div className="flex-1 flex justify-center lg:justify-end">
-            <img src="/src/assets/Irza.jpeg" alt="Profile" className="rounded-full w-48 h-48 sm:w-56 sm:h-56 object-cover object-top" />
+            <img src="/assets/Irza.jpeg" alt="Profile" className="rounded-full w-48 h-48 sm:w-56 sm:h-56 object-cover object-top" />
         </div>
       </div>
       <div className='container mx-auto py-10 overflow-hidden'>
