@@ -5,7 +5,7 @@ function Navbar() {
 
   return (
     <>
-      <div className="mx-auto flex justify-between items-center h-16 bg-gray-900 text-white px-4 relative">
+      <div className="mx-auto flex justify-between items-center h-16 bg-gray-900 text-white px-20 relative">
         
         {/* Logo */}
         <h1 className="text-xl font-bold">Frontend Develoepr</h1>
