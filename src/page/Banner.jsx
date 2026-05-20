@@ -75,7 +75,7 @@ function Banner() {
                 <div className="square"></div>
               </span>
               <p className={`title resume-title text-white`}>Resume</p>
-              <a href='' className="title">Open</a>
+              <a href='/src/assets/IrzaRaman.pdf' className="title">Open</a>
             </label>
           </div>
         </div>
