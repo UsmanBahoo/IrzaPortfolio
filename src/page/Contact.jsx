@@ -31,7 +31,7 @@ function Contact() {
           </div>
       </form>
       <div className="flex justify-center items-center mt-6 md:mt-0">
-        <img src="/src/assets/Contact.Svg" alt="image loading failed" className="max-w-55 sm:max-w-sm w-full" />
+        <img src="/assets/Contact.Svg" alt="image loading failed" className="max-w-55 sm:max-w-sm w-full" />
       </div>
            </div>
         </div>

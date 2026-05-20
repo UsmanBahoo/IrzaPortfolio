@@ -7,7 +7,7 @@ function Card() {
         <div className="flip-card">
           <div className="flip-card-inner">
             <div className="flip-card-front flex flex-col items-center justify-center text-center">
-                <img src="/src/assets/Wordpress.gif" alt="" className="w-15 h-15 mx-auto" />
+                <img src="/assets/Wordpress.gif" alt="" className="w-15 h-15 mx-auto" />
                  <h1 className="title text-white">Wordpress & Woocomerence</h1>
             </div>
             <div className="flip-card-back">
@@ -18,7 +18,7 @@ function Card() {
         <div className="flip-card">
           <div className="flip-card-inner">
             <div className="flip-card-front flex flex-col items-center justify-center text-center">
-              <img src="/src/assets/Shopify.gif" alt="" className="w-15 h-15 mx-auto"  />
+              <img src="/assets/Shopify.gif" alt="" className="w-15 h-15 mx-auto"  />
               <h1 className="title text-white">Shopify</h1>
             </div>
             <div className="flip-card-back">
@@ -29,7 +29,7 @@ function Card() {
         <div className="flip-card">
           <div className="flip-card-inner">
             <div className="flip-card-front flex flex-col items-center justify-center text-center">
-                <img src="/src/assets/react-23c4d31a.gif" alt="" className="w-15 h-15 mx-auto"  />
+                <img src="/assets/react-23c4d31a.gif" alt="" className="w-15 h-15 mx-auto"  />
               <h1 className="title text-white">React</h1>
             </div>
             <div className="flip-card-back">

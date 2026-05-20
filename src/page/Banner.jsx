@@ -96,23 +96,23 @@ function Banner() {
           spaceBetween={24}
         >
           <SwiperSlide className="flex items-center justify-center">
-            <img className="mx-auto h-15 w-15 object-contain" src="/src/assets/wordpress.svg" alt="WordPress" />
+            <img className="mx-auto h-15 w-15 object-contain" src="/assets/wordpress.svg" alt="WordPress" />
           </SwiperSlide>
 
           <SwiperSlide className="flex items-center justify-center">
-            <img className="mx-auto h-15 w-15 object-contain" src="/src/assets/shopify.svg" alt="Shopify" />
+            <img className="mx-auto h-15 w-15 object-contain" src="/assets/shopify.svg" alt="Shopify" />
           </SwiperSlide>
 
           <SwiperSlide className="flex items-center justify-center">
-            <img className="mx-auto h-15 w-15 object-contain" src="/src/assets/woocommerce.svg" alt="WooCommerce" />
+            <img className="mx-auto h-15 w-15 object-contain" src="/assets/woocommerce.svg" alt="WooCommerce" />
           </SwiperSlide>
            
            <SwiperSlide className="flex items-center justify-center">
-            <img className="mx-auto h-15 w-15 object-contain" src="/src/assets/wix.svg" alt="Wix" />
+            <img className="mx-auto h-15 w-15 object-contain" src="/assets/wix.svg" alt="Wix" />
           </SwiperSlide>
 
           <SwiperSlide className="flex items-center justify-center">
-            <img className="mx-auto h-15 w-15 object-contain" src="/src/assets/react.svg" alt="React" />
+            <img className="mx-auto h-15 w-15 object-contain" src="/assets/react.svg" alt="React" />
           </SwiperSlide>
 
         </Swiper>

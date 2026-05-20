@@ -11,7 +11,7 @@ function Skillscard() {
             {
               title: 'Frontend Development',
               period: 'July 2024 - Present',
-              icon: '/src/assets/React.Svg',
+              icon: '/assets/React.Svg',
               position: 'left',
               technologies: 'React.js, Redux-toolkit, Next.js, Tailwind CSS',
               points: [
@@ -26,7 +26,7 @@ function Skillscard() {
             {
               title: 'Shopify Development',
               period: 'Sep 2024 - Present',
-              icon: '/src/assets/shopify.svg',
+              icon: '/assets/shopify.svg',
               position: 'right',
               technologies: 'Shopify, Liquid, JavaScript, CSS',
               points: [
@@ -41,7 +41,7 @@ function Skillscard() {
             {
               title: 'WordPress WooCommerce',
               period: 'Sep 2024 - Present',
-              icon: '/src/assets/wordpress.svg',
+              icon: '/assets/wordpress.svg',
               position: 'left',
               technologies: 'WordPress, WooCommerce',
               points: [

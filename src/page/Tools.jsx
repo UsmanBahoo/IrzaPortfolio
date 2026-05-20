@@ -8,11 +8,11 @@ function Tools() {
             Tools I Use
             </h2>
         <div className="mt-8 flex flex-wrap gap-20 justify-center ">
-          <img src="/src/assets/vscode.png" alt="VS Code" className="w-20 h-20" />
-          <img src="/src/assets/ChatGPT.png" alt="ChatGPT" className="w-20 h-20" />
-          <img src="/src/assets/chrome.png" alt="Chrome" className="w-20 h-20" />
-          <img src="/src/assets/canva.svg" alt="Canva" className="w-20 h-20" />
-          <img src="/src/assets/envato.svg" alt="Envato" className="w-20 h-20" />
+          <img src="/assets/vscode.png" alt="VS Code" className="w-20 h-20" />
+          <img src="/assets/ChatGPT.png" alt="ChatGPT" className="w-20 h-20" />
+          <img src="/assets/chrome.png" alt="Chrome" className="w-20 h-20" />
+          <img src="/assets/canva.svg" alt="Canva" className="w-20 h-20" />
+          <img src="/assets/envato.svg" alt="Envato" className="w-20 h-20" />
         </div>
       </div>
     </section>
