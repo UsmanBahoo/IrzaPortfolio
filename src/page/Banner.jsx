@@ -112,7 +112,7 @@ function Banner() {
           </SwiperSlide>
 
           <SwiperSlide className="flex items-center justify-center">
-            <img className="mx-auto h-15 w-15 object-contain" src="/assets/react.svg" alt="React" />
+            <img className="mx-auto h-15 w-15 object-contain" src="/assets/React.Svg" alt="React" />
           </SwiperSlide>
 
         </Swiper>
